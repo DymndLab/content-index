@@ -6,7 +6,7 @@ authors = ["Dymnd"]
 abstract = "Lock attachment nodes while placing parts, with battery and tank bay compatibility included."
 description = "Keep a part snapped to the attachment node you choose while rotating it into place. Hover over a node and tap Tab to lock it, rotate with WASD/QE, then click to attach. Tap Tab again to unlock. Includes bay compatibility for radial batteries and spherical tanks."
 license = "MIT"
-tags = ["editor"]
+tags = ["editor", "user-interface"]
 [releases]
 github = "DymndLab/NodeLock"
 tag_prefix = "v"
